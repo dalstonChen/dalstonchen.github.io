@@ -25,9 +25,9 @@ author:
   avatar           : "xinchi.jpg"
   name             : "Xinchi Chen (陈新驰)"
   pronouns         : # "He/His"
-  bio              : "Senior Applied Scientist at AWS AI Lab"
-  location         : "Santa Clara, CA, United States"
-  employer         : "Amazon AWS AI Lab"
+  bio              : "Professor at Fudan University"
+  location         : "Shanghai, China"
+  employer         : # "Amazon AWS AI Lab"
   uri              : # URL
   email            : "Dalstonchen@gmail.com"
 
