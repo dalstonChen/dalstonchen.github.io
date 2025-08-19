@@ -23,8 +23,8 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=fPLNGx4AAAAJ&hl=en
 
-  - title: "CV"
-    url: /files/CV_07302024-xinchi.pdf
+#  - title: "CV"
+#    url: /files/CV_07302024-xinchi.pdf
     
   # - title: "CV"
   #   url: /cv-json/
